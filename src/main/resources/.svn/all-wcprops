@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/app/ecom/shifen/sf-crm/!svn/ver/214981/trunk/smeshare/exception/src/main/resources
+END
+exceptionconfig.properties.sample
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/app/ecom/shifen/sf-crm/!svn/ver/215147/trunk/smeshare/exception/src/main/resources/exceptionconfig.properties.sample
+END
+exception.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/app/ecom/shifen/sf-crm/!svn/ver/215147/trunk/smeshare/exception/src/main/resources/exception.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/app/ecom/shifen/sf-crm/!svn/ver/215146/trunk/smeshare/exception/src/main/resources/log4j.properties
+END
+exception_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/app/ecom/shifen/sf-crm/!svn/ver/215147/trunk/smeshare/exception/src/main/resources/exception_zh_CN.properties
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/app/ecom/shifen/sf-crm/!svn/ver/214981/trunk/smeshare/exception/src/test/resources
+END
+exceptionconfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/app/ecom/shifen/sf-crm/!svn/ver/215147/trunk/smeshare/exception/src/test/resources/exceptionconfig.properties
+END
+applicationContext-exception-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/app/ecom/shifen/sf-crm/!svn/ver/215147/trunk/smeshare/exception/src/test/resources/applicationContext-exception-test.xml
+END
